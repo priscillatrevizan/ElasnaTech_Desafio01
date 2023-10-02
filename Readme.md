@@ -7,7 +7,6 @@ O projeto de Introdução ao HTML teve como objetivo fornecer uma introdução p
 
 
 ## Tarefas Realizadas
-
 Aqui estão as principais tarefas que foram realizadas como parte deste projeto:
 
 **Criação de uma Página HTML Inicial:** Foi criada uma página HTML básica com a estrutura fundamental, incluindo a declaração do tipo de documento, cabeçalho e corpo da página.
