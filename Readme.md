@@ -20,7 +20,6 @@ Aqui estão as principais tarefas que foram realizadas como parte deste projeto:
 
 **Classes CSS:** Demonstramos como criar classes CSS para aplicar estilos específicos a elementos HTML.
 
-
 ## Resultados
 
 O projeto de Introdução ao HTML foi concluído com sucesso, e os participantes adquiriram uma compreensão básica e prática dos principais conceitos de HTML e CSS. Eles agora têm as habilidades iniciais necessárias para criar e formatar páginas da web simples.
@@ -36,3 +35,5 @@ Integrar JavaScript para adicionar interatividade às páginas.
 
 ## Conclusão
 Este projeto de Introdução ao HTML proporcionou uma base sólida para a criação de páginas da web. Parabéns a todos os envolvidos por concluírem com sucesso esta etapa inicial. 
+
+
