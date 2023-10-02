@@ -10,13 +10,9 @@ O projeto de Introdução ao HTML teve como objetivo fornecer uma introdução p
 Aqui estão as principais tarefas que foram realizadas como parte deste projeto:
 
 **Criação de uma Página HTML Inicial:** Foi criada uma página HTML básica com a estrutura fundamental, incluindo a declaração do tipo de documento, cabeçalho e corpo da página.
-
 **Uso de Tags HTML:**  Exploramos várias tags HTML essenciais, como <h1> a <h6> para títulos, <p> para parágrafos e <a> para criar links.
-
 **Listas:** Aprendemos a criar listas ordenadas e não ordenadas usando as tags <ol> e <ul>.
-
 **CSS (Cascading Style Sheets):** Introduzimos o conceito de CSS para estilizar a página HTML. Criamos um arquivo CSS separado e vinculamos a página HTML a ele.
-
 **Classes CSS:** Demonstramos como criar classes CSS para aplicar estilos específicos a elementos HTML.
 
 ## Resultados
