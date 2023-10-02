@@ -34,4 +34,4 @@ Integrar JavaScript para adicionar interatividade às páginas.
 ## Conclusão
 Este projeto de Introdução ao HTML proporcionou uma base sólida para a criação de páginas da web. Parabéns a todos os envolvidos por concluírem com sucesso esta etapa inicial. 
 
-
+A visualização desta pagina pode ser feita em: https://priscillatrevizan.github.io/ElasnaTech_Desafio01/
