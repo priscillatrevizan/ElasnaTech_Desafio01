@@ -12,9 +12,9 @@ Aqui estão as principais tarefas que foram realizadas como parte deste projeto:
 
 **Uso de Tags HTML:**  Exploramos várias tags HTML essenciais, como **h1** a **h6** para títulos, **p** para parágrafos e **a** para criar links.
 
-**Listas:** Aprendemos a criar listas ordenadas e não ordenadas usando as tags **ol** e **ul**.
+**Listas:** Aprendemos a criar listas ordenadas e não ordenadas usando as tags **ol** e **ul** .
 
-**CSS (Cascading Style Sheets):** Introduzimos o conceito de CSS para estilizar a página HTML . Criamos um arquivo CSS separado e vinculamos a página HTML a ele.
+** CSS (Cascading Style Sheets):** Introduzimos o conceito de CSS para estilizar a página HTML . Criamos um arquivo CSS separado e vinculamos a página HTML a ele.
 
 **Classes CSS:** Demonstramos como criar classes CSS para aplicar estilos específicos a elementos HTML .
 
